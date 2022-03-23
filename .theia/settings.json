@@ -53,5 +53,6 @@
     "cds.checkDevKitInstalled": false,
     "cds.releaseNotes.showAutomatically": false,
     "git.autofetch": true,
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
